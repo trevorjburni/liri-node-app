@@ -69,17 +69,51 @@ switch (String(command)) {
         console.log("Check your command, it should either be:\n    concert-this <artist/band name here>\n    spotify-this-song <song name here>\n    movie-this <movie name here>\n    do-what-it-says")
 }
 
+// Divider for easier readying
+var divider = "\n---------------------------------------------------\n";
 
 // Create functions that handle each piece of functionality
 
 // 'concert-this' uses the Bands In Town API
 /*
 Input: <artist/band name>
-Output: Name of the venue, venue location and date of the event("MM/DD/YYYY")
+Output: Name of each venue, venue location and date of the event("MM/DD/YYYY")
 */
 function concertThis(search) {
     console.log(search);
-}
+    // Declare and assign artist variable replacing spaces with "+"'s
+    var artist = search.replace(/ /g, "+");
+
+    // Create queryUrl
+    var queryUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + bandsInTownKey;
+
+    // create axios call
+    axios.get(queryUrl).then(
+        function (response) {
+            // Loop through each event and get the data we need to display
+            for (var i = 0; i < response.data.length; i++) {
+                var venue = response.data[i].venue.name;
+                var location = response.data[i].venue.city + " " + response.data[i].venue.region;
+                var datetime = response.data[i].datetime;
+                var resultString = "";
+                resultString += (i + 1) + "." + search + "\n";
+                resultString += "Venue: " + venue + "\n";
+                resultString += "Location: " + location + "\n";
+                resultString += "Date: " + datetime + "\n";
+                resultString += divider;
+                // log out the resultString
+                console.log(resultString);
+                // add to log
+                fs.appendFile("log.txt", resultString, function (error) {
+                    if (error) {
+                        console.log(error);
+                    }
+                });
+            }
+        }
+    )
+};
+
 
 // 'spotify-this-song' uses the Spotify API
 /*
@@ -106,9 +140,6 @@ function movieThis(search) {
     axios.get(queryUrl).then(
         function (response) {
 
-            // Divider for easier readying
-            var divider = "\n---------------------------------------------------\n";
-            
             // build resultString
             var resultString = "";
             resultString += "Movie Title: " + response.data.Title + "\n";
@@ -128,8 +159,6 @@ function movieThis(search) {
                 // log out the resultString
                 console.log(resultString);
             });
-
-
         }
     )
 }

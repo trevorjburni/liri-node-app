@@ -35,3 +35,511 @@ Plot: Two bored children have their lives turned upside down when a talking cat 
 Actors: Mike Myers, Alec Baldwin, Kelly Preston, Dakota Fanning
 
 ---------------------------------------------------
+2.Venue: Werchter BoutiqueLocation: RotselaarDate: 2020-06-20T19:00:00
+---------------------------------------------------
+1.Venue: Capital One JamFestLocation: AtlantaGADate: 2020-04-05T14:00:00
+---------------------------------------------------
+3.Venue: Waldbühne BerlinLocation: BerlinDate: 2020-06-24T19:00:00
+---------------------------------------------------
+5.Venue: Glastonbury Festival 2020Location: Shepton MalletDate: 2020-06-28T19:00:00
+---------------------------------------------------
+6.Venue: Roskilde FestivalLocation: RoskildeDate: 2020-07-01T19:00:00
+---------------------------------------------------
+4.Venue: Oslo SommertidLocation: OsloDate: 2020-06-26T19:00:00
+---------------------------------------------------
+7.Venue: Open’er FestivalLocation: Powiat PuckiDate: 2020-07-03T19:00:00
+---------------------------------------------------
+8.Venue: Festival de NîmesLocation: NîmesDate: 2020-07-05T19:00:00
+---------------------------------------------------
+9.Venue: NOS AliveLocation: AlgésDate: 2020-07-09T19:00:00
+---------------------------------------------------
+10.Venue: Hyde ParkLocation: LondonDate: 2020-07-11T14:00:00
+---------------------------------------------------
+11.Venue: Allianz ParqueLocation: Sao PauloDate: 2020-07-18T19:00:00
+---------------------------------------------------
+12.Venue: Allianz ParqueLocation: Sao PauloDate: 2020-07-19T21:00:00
+---------------------------------------------------
+13.Venue: Lover Fest WestLocation: Los AngelesCADate: 2020-07-25T19:00:00
+---------------------------------------------------
+14.Venue: Lover Fest WestLocation: Los AngelesCADate: 2020-07-26T19:00:00
+---------------------------------------------------
+15.Venue: Lover Fest EastLocation: FoxboroughMADate: 2020-07-31T19:00:00
+---------------------------------------------------
+16.Venue: Lover Fest EastLocation: FoxboroughMADate: 2020-08-01T19:00:00
+---------------------------------------------------
+1.Venue: Capital One JamFestLocation: AtlantaGADate: 2020-04-05T14:00:00
+---------------------------------------------------
+2.Venue: Werchter BoutiqueLocation: RotselaarDate: 2020-06-20T19:00:00
+---------------------------------------------------
+3.Venue: Waldbühne BerlinLocation: BerlinDate: 2020-06-24T19:00:00
+---------------------------------------------------
+5.Venue: Glastonbury Festival 2020Location: Shepton MalletDate: 2020-06-28T19:00:00
+---------------------------------------------------
+4.Venue: Oslo SommertidLocation: OsloDate: 2020-06-26T19:00:00
+---------------------------------------------------
+6.Venue: Roskilde FestivalLocation: RoskildeDate: 2020-07-01T19:00:00
+---------------------------------------------------
+7.Venue: Open’er FestivalLocation: Powiat PuckiDate: 2020-07-03T19:00:00
+---------------------------------------------------
+8.Venue: Festival de NîmesLocation: NîmesDate: 2020-07-05T19:00:00
+---------------------------------------------------
+11.Venue: Allianz ParqueLocation: Sao PauloDate: 2020-07-18T19:00:00
+---------------------------------------------------
+10.Venue: Hyde ParkLocation: LondonDate: 2020-07-11T14:00:00
+---------------------------------------------------
+12.Venue: Allianz ParqueLocation: Sao PauloDate: 2020-07-19T21:00:00
+---------------------------------------------------
+9.Venue: NOS AliveLocation: AlgésDate: 2020-07-09T19:00:00
+---------------------------------------------------
+13.Venue: Lover Fest WestLocation: Los AngelesCADate: 2020-07-25T19:00:00
+---------------------------------------------------
+14.Venue: Lover Fest WestLocation: Los AngelesCADate: 2020-07-26T19:00:00
+---------------------------------------------------
+16.Venue: Lover Fest EastLocation: FoxboroughMADate: 2020-08-01T19:00:00
+---------------------------------------------------
+15.Venue: Lover Fest EastLocation: FoxboroughMADate: 2020-07-31T19:00:00
+---------------------------------------------------
+1.
+Venue: Capital One JamFest
+Location: AtlantaGA
+Date: 2020-04-05T14:00:00
+
+---------------------------------------------------
+2.
+Venue: Werchter Boutique
+Location: Rotselaar
+Date: 2020-06-20T19:00:00
+
+---------------------------------------------------
+4.
+Venue: Oslo Sommertid
+Location: Oslo
+Date: 2020-06-26T19:00:00
+
+---------------------------------------------------
+3.
+Venue: Waldbühne Berlin
+Location: Berlin
+Date: 2020-06-24T19:00:00
+
+---------------------------------------------------
+6.
+Venue: Roskilde Festival
+Location: Roskilde
+Date: 2020-07-01T19:00:00
+
+---------------------------------------------------
+5.
+Venue: Glastonbury Festival 2020
+Location: Shepton Mallet
+Date: 2020-06-28T19:00:00
+
+---------------------------------------------------
+7.
+Venue: Open’er Festival
+Location: Powiat Pucki
+Date: 2020-07-03T19:00:00
+
+---------------------------------------------------
+8.
+Venue: Festival de Nîmes
+Location: Nîmes
+Date: 2020-07-05T19:00:00
+
+---------------------------------------------------
+10.
+Venue: Hyde Park
+Location: London
+Date: 2020-07-11T14:00:00
+
+---------------------------------------------------
+9.
+Venue: NOS Alive
+Location: Algés
+Date: 2020-07-09T19:00:00
+
+---------------------------------------------------
+11.
+Venue: Allianz Parque
+Location: Sao Paulo
+Date: 2020-07-18T19:00:00
+
+---------------------------------------------------
+13.
+Venue: Lover Fest West
+Location: Los AngelesCA
+Date: 2020-07-25T19:00:00
+
+---------------------------------------------------
+14.
+Venue: Lover Fest West
+Location: Los AngelesCA
+Date: 2020-07-26T19:00:00
+
+---------------------------------------------------
+15.
+Venue: Lover Fest East
+Location: FoxboroughMA
+Date: 2020-07-31T19:00:00
+
+---------------------------------------------------
+12.
+Venue: Allianz Parque
+Location: Sao Paulo
+Date: 2020-07-19T21:00:00
+
+---------------------------------------------------
+16.
+Venue: Lover Fest East
+Location: FoxboroughMA
+Date: 2020-08-01T19:00:00
+
+---------------------------------------------------
+1.Taylor Swift
+Venue: Capital One JamFest
+Location: AtlantaGA
+Date: 2020-04-05T14:00:00
+
+---------------------------------------------------
+2.Taylor Swift
+Venue: Werchter Boutique
+Location: Rotselaar
+Date: 2020-06-20T19:00:00
+
+---------------------------------------------------
+3.Taylor Swift
+Venue: Waldbühne Berlin
+Location: Berlin
+Date: 2020-06-24T19:00:00
+
+---------------------------------------------------
+4.Taylor Swift
+Venue: Oslo Sommertid
+Location: Oslo
+Date: 2020-06-26T19:00:00
+
+---------------------------------------------------
+6.Taylor Swift
+Venue: Roskilde Festival
+Location: Roskilde
+Date: 2020-07-01T19:00:00
+
+---------------------------------------------------
+5.Taylor Swift
+Venue: Glastonbury Festival 2020
+Location: Shepton Mallet
+Date: 2020-06-28T19:00:00
+
+---------------------------------------------------
+8.Taylor Swift
+Venue: Festival de Nîmes
+Location: Nîmes
+Date: 2020-07-05T19:00:00
+
+---------------------------------------------------
+7.Taylor Swift
+Venue: Open’er Festival
+Location: Powiat Pucki
+Date: 2020-07-03T19:00:00
+
+---------------------------------------------------
+9.Taylor Swift
+Venue: NOS Alive
+Location: Algés
+Date: 2020-07-09T19:00:00
+
+---------------------------------------------------
+11.Taylor Swift
+Venue: Allianz Parque
+Location: Sao Paulo
+Date: 2020-07-18T19:00:00
+
+---------------------------------------------------
+12.Taylor Swift
+Venue: Allianz Parque
+Location: Sao Paulo
+Date: 2020-07-19T21:00:00
+
+---------------------------------------------------
+10.Taylor Swift
+Venue: Hyde Park
+Location: London
+Date: 2020-07-11T14:00:00
+
+---------------------------------------------------
+13.Taylor Swift
+Venue: Lover Fest West
+Location: Los AngelesCA
+Date: 2020-07-25T19:00:00
+
+---------------------------------------------------
+14.Taylor Swift
+Venue: Lover Fest West
+Location: Los AngelesCA
+Date: 2020-07-26T19:00:00
+
+---------------------------------------------------
+15.Taylor Swift
+Venue: Lover Fest East
+Location: FoxboroughMA
+Date: 2020-07-31T19:00:00
+
+---------------------------------------------------
+16.Taylor Swift
+Venue: Lover Fest East
+Location: FoxboroughMA
+Date: 2020-08-01T19:00:00
+
+---------------------------------------------------
+1.Taylor Swift
+Venue: Capital One JamFest
+Location: Atlanta GA
+Date: 2020-04-05T14:00:00
+
+---------------------------------------------------
+2.Taylor Swift
+Venue: Werchter Boutique
+Location: Rotselaar 
+Date: 2020-06-20T19:00:00
+
+---------------------------------------------------
+4.Taylor Swift
+Venue: Oslo Sommertid
+Location: Oslo 
+Date: 2020-06-26T19:00:00
+
+---------------------------------------------------
+3.Taylor Swift
+Venue: Waldbühne Berlin
+Location: Berlin 
+Date: 2020-06-24T19:00:00
+
+---------------------------------------------------
+5.Taylor Swift
+Venue: Glastonbury Festival 2020
+Location: Shepton Mallet 
+Date: 2020-06-28T19:00:00
+
+---------------------------------------------------
+7.Taylor Swift
+Venue: Open’er Festival
+Location: Powiat Pucki 
+Date: 2020-07-03T19:00:00
+
+---------------------------------------------------
+8.Taylor Swift
+Venue: Festival de Nîmes
+Location: Nîmes 
+Date: 2020-07-05T19:00:00
+
+---------------------------------------------------
+6.Taylor Swift
+Venue: Roskilde Festival
+Location: Roskilde 
+Date: 2020-07-01T19:00:00
+
+---------------------------------------------------
+11.Taylor Swift
+Venue: Allianz Parque
+Location: Sao Paulo 
+Date: 2020-07-18T19:00:00
+
+---------------------------------------------------
+9.Taylor Swift
+Venue: NOS Alive
+Location: Algés 
+Date: 2020-07-09T19:00:00
+
+---------------------------------------------------
+12.Taylor Swift
+Venue: Allianz Parque
+Location: Sao Paulo 
+Date: 2020-07-19T21:00:00
+
+---------------------------------------------------
+10.Taylor Swift
+Venue: Hyde Park
+Location: London 
+Date: 2020-07-11T14:00:00
+
+---------------------------------------------------
+13.Taylor Swift
+Venue: Lover Fest West
+Location: Los Angeles CA
+Date: 2020-07-25T19:00:00
+
+---------------------------------------------------
+14.Taylor Swift
+Venue: Lover Fest West
+Location: Los Angeles CA
+Date: 2020-07-26T19:00:00
+
+---------------------------------------------------
+15.Taylor Swift
+Venue: Lover Fest East
+Location: Foxborough MA
+Date: 2020-07-31T19:00:00
+
+---------------------------------------------------
+16.Taylor Swift
+Venue: Lover Fest East
+Location: Foxborough MA
+Date: 2020-08-01T19:00:00
+
+---------------------------------------------------
+1.David Cook
+Venue: Globe Hall
+Location: Denver CO
+Date: 2020-03-27T19:30:00
+
+---------------------------------------------------
+2.David Cook
+Venue: DeJoria Center
+Location: Kamas UT
+Date: 2020-03-28T20:00:00
+
+---------------------------------------------------
+3.David Cook
+Venue: Luxor
+Location: Cologne 
+Date: 2020-04-11T18:30:00
+
+---------------------------------------------------
+4.David Cook
+Venue: Frannz-Club
+Location: Berlin 
+Date: 2020-04-12T20:00:00
+
+---------------------------------------------------
+5.David Cook
+Venue: Knust
+Location: Hamburg 
+Date: 2020-04-13T20:00:00
+
+---------------------------------------------------
+6.David Cook
+Venue: Whelan's
+Location: Dublin 
+Date: 2020-04-15T19:30:00
+
+---------------------------------------------------
+8.David Cook
+Venue: The Deaf Institute
+Location: Manchester 
+Date: 2020-04-18T19:30:00
+
+---------------------------------------------------
+7.David Cook
+Venue: Bush Hall
+Location: London 
+Date: 2020-04-17T20:00:00
+
+---------------------------------------------------
+9.David Cook
+Venue: King Tuts Wah Wah Hut
+Location: Glasgow 
+Date: 2020-04-19T20:30:00
+
+---------------------------------------------------
+11.David Cook
+Venue: Skive Theater
+Location: Skive 
+Date: 2020-04-22T20:00:00
+
+---------------------------------------------------
+10.David Cook
+Venue: Hotel Cecil
+Location: København K 
+Date: 2020-04-21T20:00:00
+
+---------------------------------------------------
+13.David Cook
+Venue: On The Rocks
+Location: Helsinki 
+Date: 2020-04-26T20:00:00
+
+---------------------------------------------------
+12.David Cook
+Venue: Nalen
+Location: Stockholm 
+Date: 2020-04-24T20:00:00
+
+---------------------------------------------------
+1.David Cook
+Venue: Globe Hall
+Location: Denver CO
+Date: 2020-03-27T19:30:00
+
+---------------------------------------------------
+2.David Cook
+Venue: DeJoria Center
+Location: Kamas UT
+Date: 2020-03-28T20:00:00
+
+---------------------------------------------------
+3.David Cook
+Venue: Luxor
+Location: Cologne 
+Date: 2020-04-11T18:30:00
+
+---------------------------------------------------
+5.David Cook
+Venue: Knust
+Location: Hamburg 
+Date: 2020-04-13T20:00:00
+
+---------------------------------------------------
+4.David Cook
+Venue: Frannz-Club
+Location: Berlin 
+Date: 2020-04-12T20:00:00
+
+---------------------------------------------------
+6.David Cook
+Venue: Whelan's
+Location: Dublin 
+Date: 2020-04-15T19:30:00
+
+---------------------------------------------------
+7.David Cook
+Venue: Bush Hall
+Location: London 
+Date: 2020-04-17T20:00:00
+
+---------------------------------------------------
+8.David Cook
+Venue: The Deaf Institute
+Location: Manchester 
+Date: 2020-04-18T19:30:00
+
+---------------------------------------------------
+10.David Cook
+Venue: Hotel Cecil
+Location: København K 
+Date: 2020-04-21T20:00:00
+
+---------------------------------------------------
+9.David Cook
+Venue: King Tuts Wah Wah Hut
+Location: Glasgow 
+Date: 2020-04-19T20:30:00
+
+---------------------------------------------------
+13.David Cook
+Venue: On The Rocks
+Location: Helsinki 
+Date: 2020-04-26T20:00:00
+
+---------------------------------------------------
+11.David Cook
+Venue: Skive Theater
+Location: Skive 
+Date: 2020-04-22T20:00:00
+
+---------------------------------------------------
+12.David Cook
+Venue: Nalen
+Location: Stockholm 
+Date: 2020-04-24T20:00:00
+
+---------------------------------------------------
