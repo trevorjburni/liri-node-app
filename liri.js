@@ -17,6 +17,12 @@ var keys = require("./keys.js");
 // Assign spotify to the Spotify object, with the key
 var spotify = new Spotify(keys.spotify);
 
+// Assign Bands In Town API key
+var bandsInTownKey = keys.bandsInTown.id;
+
+// Assign omdb API key
+var omdbKey = keys.omdb.id;
+
 // Require axios package
 var axios = require("axios");
 
@@ -29,7 +35,6 @@ var fs = require("fs");
 // Set user provided arguments to variables
 var command = process.argv[2];
 var search = process.argv.slice(3).join(" ");
-console.log(command);
 
 // Switch cases for each piece of functionality
 // Each switch case calls a function that will return information to the screen for the user
@@ -43,18 +48,23 @@ Possible switch cases
 else. return with invalid input message, or no input provide message
 */
 switch (String(command)) {
+
     case "concert-this":
         concertThis(search);
         break;
+
     case "spotify-this-song":
         spotifyThis(search);
         break;
+
     case "movie-this":
         movieThis(search);
         break;
+
     case "do-what-it-says":
         doWhatItSays(search);
         break;
+
     default:
         console.log("Check your command, it should either be:\n'concert-this'\n'spotify-this-song'\n'movie-this'\n'do-what-it-says'")
 }
