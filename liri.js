@@ -96,7 +96,42 @@ Input: <movie name>
 Output: Movie Title, Year of release, IMDB rating, Rotten Tomatoes rating, Country produced, language, plot and actors.
 */
 function movieThis(search) {
-    console.log(search);
+    // Declare and assign movieName variable replacing spaces with "+"'s
+    var movieName = search.replace(/ /g, "+");
+
+    // Create queryUrl
+    var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&apikey=" + omdbKey;
+
+    // axios call
+    axios.get(queryUrl).then(
+        function (response) {
+
+            // Divider for easier readying
+            var divider = "\n---------------------------------------------------\n";
+            
+            // build resultString
+            var resultString = "";
+            resultString += "Movie Title: " + response.data.Title + "\n";
+            resultString += "Year Released: " + response.data.Year + "\n";
+            resultString += "IMDB Rating: " + response.data.Ratings[0].Value + "\n";
+            resultString += "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\n";
+            resultString += "Produced in: " + response.data.Country + "\n";
+            resultString += "Language: " + response.data.Language + "\n";
+            resultString += "Plot: " + response.data.Plot + "\n";
+            resultString += "Actors: " + response.data.Actors + "\n";
+            resultString += divider;
+            // write to log.txt
+            fs.appendFile("log.txt", resultString, function (error) {
+                if (error) {
+                    console.log(error);
+                }
+                // log out the resultString
+                console.log(resultString);
+            });
+
+
+        }
+    )
 }
 
 // 'do-what-it-says' uses the random.txt file to run one of the above
