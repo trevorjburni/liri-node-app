@@ -66,7 +66,7 @@ switch (String(command)) {
         break;
 
     default:
-        console.log("Check your command, it should either be:\n'concert-this'\n'spotify-this-song'\n'movie-this'\n'do-what-it-says'")
+        console.log("Check your command, it should either be:\n    concert-this <artist/band name here>\n    spotify-this-song <song name here>\n    movie-this <movie name here>\n    do-what-it-says")
 }
 
 
