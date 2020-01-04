@@ -27,7 +27,9 @@ var moment = require("moment");
 var fs = require("fs");
 
 // Set user provided arguments to variables
-
+var command = process.argv[2];
+var search = process.argv.slice(3).join(" ");
+console.log(input);
 
 // Switch cases for each piece of functionality
 // Each switch case calls a function that will return information to the screen for the user
