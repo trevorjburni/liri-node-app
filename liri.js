@@ -47,22 +47,35 @@ else. return with invalid input message, or no input provide message
 
 // Create functions that handle each piece of functionality
 
+
 // 'concert-this' uses the Bands In Town API
 /*
 Input: <artist/band name>
 Output: Name of the venue, venue location and date of the event("MM/DD/YYYY")
 */
+function concertThis(search) {
+    return search;
+}
 
 // 'spotify-this-song' uses the Spotify API
 /*
 Input: <song name>
 Output: Artist, song name, preview link to song from Spotify and album the song is from
 */
+function spotifyThis(search) {
+    return search;
+}
 
 // 'movie-this' uses the OMDB API
 /*
 Input: <movie name>
 Output: Movie Title, Year of release, IMDB rating, Rotten Tomatoes rating, Country produced, language, plot and actors.
 */
+function movieThis(search) {
+    return search;
+}
 
 // 'do-what-it-says' uses the random.txt file to run one of the above
+function doWhatItSays(search) {
+    return search;
+}
