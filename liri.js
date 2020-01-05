@@ -162,20 +162,22 @@ function movieThis(search) {
     // set default if no search term is givin
     if (!search) {
         search = "Mr. Nobody";
-        getMovieData();
+        // Declare and assign movieName variable replacing spaces with "+"'s
+        var movieName = search.replace(/ /g, "+");
+        getMovieData(movieName);
         console.log("If you haven't watched 'Mr. Nobody', then you should: http://www.imdb.com/title/tt0485947/")
         console.log("It's on Netflix!");
     } else {
-        getMovieData();
+        // Declare and assign movieName variable replacing spaces with "+"'s
+        var movieName = search.replace(/ /g, "+");
+        getMovieData(movieName);
     }
-    // Declare and assign movieName variable replacing spaces with "+"'s
-    var movieName = search.replace(/ /g, "+");
 
     // axios call
-    function getMovieData() {
+    function getMovieData(movie) {
 
         // Create queryUrl
-        var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&apikey=" + omdbKey;
+        var queryUrl = "http://www.omdbapi.com/?t=" + movie + "&apikey=" + omdbKey;
         axios.get(queryUrl).then(
             function (response) {
 
@@ -183,8 +185,15 @@ function movieThis(search) {
                 var resultString = "";
                 resultString += "Movie Title: " + response.data.Title + "\n";
                 resultString += "Year Released: " + response.data.Year + "\n";
-                resultString += "IMDB Rating: " + response.data.Ratings[0].Value + "\n";
-                // resultString += "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\n";
+                try {
+                    resultString += "IMDB Rating: " + response.data.Ratings[0].Value + "\n";
+                }
+                catch(error) {
+                }
+                try {
+                    resultString += "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\n";
+                } catch(error) {
+                }
                 resultString += "Produced in: " + response.data.Country + "\n";
                 resultString += "Language: " + response.data.Language + "\n";
                 resultString += "Plot: " + response.data.Plot + "\n";
