@@ -13,7 +13,7 @@ Liri uses several API's and node packages that allow for it to work properly and
 
 ## How does Liri Work?
 
-Liri is a command line interface app (CLI) that takes in a command and a search term as arguments, following the node liri.js call. See video for a quick guide of how it works. [quick guide video](https://youtu.be/Ne08TfE8CuU)
+Liri is a command line interface app (CLI) that takes in a command and a search term as arguments, following the node liri.js call. See video for a quick guide of how it works. [quick video guide](https://youtu.be/Ne08TfE8CuU)
 
 Liri takes in the following commands followed by a search term:
 
