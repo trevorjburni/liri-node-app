@@ -1707,3 +1707,407 @@ Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b
 Album: The Hits--Chapter One
 
 ---------------------------------------------------
+Artist(s): blink-182
+Song: All The Small Things
+Preview URL: null
+Album: Enema Of The State
+
+---------------------------------------------------
+Artist(s): Lauv
+Song: I Like Me Better
+Preview URL: https://p.scdn.co/mp3-preview/fa069a3be2d69aab5378b55f6c66d8b3eff1a6d3?cid=a77d0f26946e4fa48c8de9742044b292
+Album: I Like Me Better
+
+---------------------------------------------------
+Movie Title: Frozen
+Year Released: 2013
+IMDB Rating: 7.5/10
+Rotten Tomatoes Rating: 90%
+Produced in: USA
+Language: English, Norwegian
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+---------------------------------------------------
+Movie Title: Monsters, Inc.
+Year Released: 2001
+IMDB Rating: 8.0/10
+Rotten Tomatoes Rating: 96%
+Produced in: USA
+Language: English
+Plot: In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.
+Actors: John Goodman, Billy Crystal, Mary Gibbs, Steve Buscemi
+
+---------------------------------------------------
+1.Taylor swift
+Venue: Capital One JamFest
+Location: Atlanta GA
+Date: 04/05/2020
+
+---------------------------------------------------
+2.Taylor swift
+Venue: Werchter Boutique
+Location: Rotselaar 
+Date: 06/20/2020
+
+---------------------------------------------------
+4.Taylor swift
+Venue: Oslo Sommertid
+Location: Oslo 
+Date: 06/26/2020
+
+---------------------------------------------------
+3.Taylor swift
+Venue: Waldbühne Berlin
+Location: Berlin 
+Date: 06/24/2020
+
+---------------------------------------------------
+5.Taylor swift
+Venue: Glastonbury Festival 2020
+Location: Shepton Mallet 
+Date: 06/28/2020
+
+---------------------------------------------------
+7.Taylor swift
+Venue: Open’er Festival
+Location: Powiat Pucki 
+Date: 07/03/2020
+
+---------------------------------------------------
+6.Taylor swift
+Venue: Roskilde Festival
+Location: Roskilde 
+Date: 07/01/2020
+
+---------------------------------------------------
+10.Taylor swift
+Venue: Hyde Park
+Location: London 
+Date: 07/11/2020
+
+---------------------------------------------------
+8.Taylor swift
+Venue: Festival de Nîmes
+Location: Nîmes 
+Date: 07/05/2020
+
+---------------------------------------------------
+9.Taylor swift
+Venue: NOS Alive
+Location: Algés 
+Date: 07/09/2020
+
+---------------------------------------------------
+11.Taylor swift
+Venue: Allianz Parque
+Location: Sao Paulo 
+Date: 07/18/2020
+
+---------------------------------------------------
+13.Taylor swift
+Venue: Lover Fest West
+Location: Los Angeles CA
+Date: 07/25/2020
+
+---------------------------------------------------
+12.Taylor swift
+Venue: Allianz Parque
+Location: Sao Paulo 
+Date: 07/19/2020
+
+---------------------------------------------------
+14.Taylor swift
+Venue: Lover Fest West
+Location: Los Angeles CA
+Date: 07/26/2020
+
+---------------------------------------------------
+16.Taylor swift
+Venue: Lover Fest East
+Location: Foxborough MA
+Date: 08/01/2020
+
+---------------------------------------------------
+15.Taylor swift
+Venue: Lover Fest East
+Location: Foxborough MA
+Date: 07/31/2020
+
+---------------------------------------------------
+1.Justin Beiber
+Venue: CenturyLink Field
+Location: Seattle WA
+Date: 05/14/2020
+
+---------------------------------------------------
+2.Justin Beiber
+Venue: Moda Center
+Location: Portland OR
+Date: 05/17/2020
+
+---------------------------------------------------
+4.Justin Beiber
+Venue: Levi's Stadium
+Location: Santa Clara CA
+Date: 05/22/2020
+
+---------------------------------------------------
+3.Justin Beiber
+Venue: Golden1 Center
+Location: Sacramento CA
+Date: 05/19/2020
+
+---------------------------------------------------
+5.Justin Beiber
+Venue: Pechanga Arena San Diego
+Location: San Diego CA
+Date: 05/26/2020
+
+---------------------------------------------------
+6.Justin Beiber
+Venue: Rose Bowl Stadium
+Location: Pasadena CA
+Date: 05/29/2020
+
+---------------------------------------------------
+8.Justin Beiber
+Venue: State Farm Stadium
+Location: Glendale AZ
+Date: 06/05/2020
+
+---------------------------------------------------
+9.Justin Beiber
+Venue: Vivint Smart Home Arena
+Location: Salt Lake City UT
+Date: 06/09/2020
+
+---------------------------------------------------
+10.Justin Beiber
+Venue: Empower Field at Mile High
+Location: Denver CO
+Date: 06/13/2020
+
+---------------------------------------------------
+11.Justin Beiber
+Venue: Pinnacle Bank Arena
+Location: Lincoln NE
+Date: 06/16/2020
+
+---------------------------------------------------
+7.Justin Beiber
+Venue: T-Mobile Arena
+Location: Las Vegas NV
+Date: 06/02/2020
+
+---------------------------------------------------
+12.Justin Beiber
+Venue: Soldier Field
+Location: Chicago IL
+Date: 06/19/2020
+
+---------------------------------------------------
+13.Justin Beiber
+Venue: Target Center
+Location: Minneapolis MN
+Date: 06/21/2020
+
+---------------------------------------------------
+14.Justin Beiber
+Venue: Milwaukee Summerfest
+Location: Milwaukee WI
+Date: 06/24/2020
+
+---------------------------------------------------
+16.Justin Beiber
+Venue: Smoothie King Center
+Location: New Orleans LA
+Date: 06/30/2020
+
+---------------------------------------------------
+17.Justin Beiber
+Venue: NRG Stadium
+Location: Houston TX
+Date: 07/02/2020
+
+---------------------------------------------------
+18.Justin Beiber
+Venue: Sprint Center
+Location: Kansas City KS
+Date: 07/06/2020
+
+---------------------------------------------------
+19.Justin Beiber
+Venue: BOK Center
+Location: Tulsa OK
+Date: 07/08/2020
+
+---------------------------------------------------
+15.Justin Beiber
+Venue: AT&T Stadium
+Location: Arlington TX
+Date: 06/27/2020
+
+---------------------------------------------------
+21.Justin Beiber
+Venue: Enterprise Center
+Location: Saint Louis MO
+Date: 07/13/2020
+
+---------------------------------------------------
+20.Justin Beiber
+Venue: Nissan Stadium
+Location: Nashville TN
+Date: 07/11/2020
+
+---------------------------------------------------
+22.Justin Beiber
+Venue: Simmons Bank Arena
+Location: North Little Rock AR
+Date: 07/15/2020
+
+---------------------------------------------------
+24.Justin Beiber
+Venue: AmericanAirlines Arena
+Location: Miami FL
+Date: 07/21/2020
+
+---------------------------------------------------
+23.Justin Beiber
+Venue: Mercedes-Benz Stadium
+Location: Atlanta GA
+Date: 07/18/2020
+
+---------------------------------------------------
+25.Justin Beiber
+Venue: Raymond James Stadium
+Location: Tampa FL
+Date: 07/25/2020
+
+---------------------------------------------------
+27.Justin Beiber
+Venue: Greensboro Coliseum Complex
+Location: Greensboro NC
+Date: 07/29/2020
+
+---------------------------------------------------
+26.Justin Beiber
+Venue: Colonial Life Arena
+Location: Columbia SC
+Date: 07/27/2020
+
+---------------------------------------------------
+28.Justin Beiber
+Venue: Lincoln Financial Field
+Location: Philadelphia PA
+Date: 08/01/2020
+
+---------------------------------------------------
+29.Justin Beiber
+Venue: PPG Paints Arena
+Location: Pittsburgh PA
+Date: 08/04/2020
+
+---------------------------------------------------
+30.Justin Beiber
+Venue: Bryce Jordan Center
+Location: University Park PA
+Date: 08/06/2020
+
+---------------------------------------------------
+32.Justin Beiber
+Venue: KFC Yum! Center
+Location: Louisville KY
+Date: 08/12/2020
+
+---------------------------------------------------
+33.Justin Beiber
+Venue: First Energy Stadium
+Location: Cleveland OH
+Date: 08/14/2020
+
+---------------------------------------------------
+34.Justin Beiber
+Venue: Van Andel Arena
+Location: Grand Rapids MI
+Date: 08/16/2020
+
+---------------------------------------------------
+31.Justin Beiber
+Venue: Ohio Stadium
+Location: Columbus OH
+Date: 08/08/2020
+
+---------------------------------------------------
+35.Justin Beiber
+Venue: Rupp Arena
+Location: Lexington KY
+Date: 08/18/2020
+
+---------------------------------------------------
+38.Justin Beiber
+Venue: Times Union Center
+Location: Albany NY
+Date: 08/26/2020
+
+---------------------------------------------------
+36.Justin Beiber
+Venue: FedEx Field
+Location: Landover MD
+Date: 08/21/2020
+
+---------------------------------------------------
+37.Justin Beiber
+Venue: KeyBank Center
+Location: Buffalo NY
+Date: 08/24/2020
+
+---------------------------------------------------
+40.Justin Beiber
+Venue: Canadian Tire Centre
+Location: Ottawa 
+Date: 09/01/2020
+
+---------------------------------------------------
+41.Justin Beiber
+Venue: Videotron Centre
+Location: Ville De Québec 
+Date: 09/03/2020
+
+---------------------------------------------------
+39.Justin Beiber
+Venue: Ford Field
+Location: Detroit MI
+Date: 08/29/2020
+
+---------------------------------------------------
+42.Justin Beiber
+Venue: Rogers Centre
+Location: Toronto 
+Date: 09/10/2020
+
+---------------------------------------------------
+45.Justin Beiber
+Venue: MetLife Stadium
+Location: East Rutherford NJ
+Date: 09/26/2020
+
+---------------------------------------------------
+44.Justin Beiber
+Venue: Gillette Stadium
+Location: Foxborough MA
+Date: 09/17/2020
+
+---------------------------------------------------
+43.Justin Beiber
+Venue: Bell Centre
+Location: Montreal 
+Date: 09/14/2020
+
+---------------------------------------------------
+Artist(s): Backstreet Boys
+Song: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a77d0f26946e4fa48c8de9742044b292
+Album: The Hits--Chapter One
+
+---------------------------------------------------
